@@ -6,5 +6,5 @@ NodeLangGuesser is a Node.js package that uses the franc and langs libraries to 
 
 // usage example:
 
-node index.js "Hello, World!" // Output: "en" "English"
+node index.js 'Vandaag eten wij italiaans' // Output: Our best guess is: Dutch
 ```
