@@ -1,0 +1,1 @@
+const franc = const packageName = require('packageName');
